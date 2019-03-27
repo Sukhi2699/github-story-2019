@@ -1,4 +1,4 @@
-#Spring of 99
+Spring of 99
 welcome to the story page
 this is a read me about th git story i wrote
 
