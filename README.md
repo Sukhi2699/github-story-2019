@@ -9,7 +9,10 @@
  - Click [Here](https://sukhi2699.github.io/github-story-2019/Chapter2.html) for Chapter 02
  - Click [Here](https://sukhi2699.github.io/github-story-2019/Chapter3.html) for Chapter 03
  
-
+### Releases
+- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v1.0) Relese v1.0
+- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v1.0) Relese v2.0
+- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v1.0) Relese v3.0
 
 check it out
 
