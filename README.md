@@ -5,7 +5,7 @@
  ## The link to the story
  
  - Click [Here](https://sukhi2699.github.io/github-story-2019/)
- - Click [Here](https://sukhi2699.github.io/github-story-2019/Chapter 1.html) for Chapter 01
+ - Click [Here](https://sukhi2699.github.io/github-story-2019/Chapter1.html) for Chapter 01
  - Click [Here](https://sukhi2699.github.io/github-story-2019/Chapter2.html) for Chapter 02
  - Click [Here](https://sukhi2699.github.io/github-story-2019/Chapter3.html) for Chapter 03
  
