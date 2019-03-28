@@ -11,8 +11,8 @@
  
 ### Releases
 - Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v1.0) Relese v1.0
-- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v1.0) Relese v2.0
-- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v1.0) Relese v3.0
+- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v2.0) Relese v2.0
+- Click [Here](https://github.com/Sukhi2699/github-story-2019/releases/tag/v3.0) Relese v3.0
 
 check it out
 
